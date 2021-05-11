@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Site](https://www.frontendmentor.io/solutions/html-and-css-uOBteWx6Z)
-- Live Site URL: [Site](https://angelosgr21.github.io/Stats-preview-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-and-css-uOBteWx6Z](https://www.frontendmentor.io/solutions/html-and-css-uOBteWx6Z)
+- Live Site URL: [https://angelosgr21.github.io/Stats-preview-card-component/](https://angelosgr21.github.io/Stats-preview-card-component/)
 
 ## My process
 
